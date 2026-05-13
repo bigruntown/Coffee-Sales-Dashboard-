@@ -57,10 +57,7 @@ Based on the actual data in this workbook:
 
 ## Screenshots
 
-> Replace these with actual PNG screenshots once you've taken them in Excel.
-
-![Dashboard view](screenshots/dashboard.png)
-![Top 5 Customers and Country bar](screenshots/customers-country.png)
+![image alt](https://github.com/bigruntown/Coffee-Sales-Dashboard-/blob/main/Screenshot.jpg?raw=true)
 
 ## How to view this project
 
